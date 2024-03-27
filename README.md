@@ -4,3 +4,16 @@ This project aims to utilize OpenAI's API within a Spring Boot application to pr
 **Fraud Detection**: Future plans to employ GPT to analyze user data for fraud detection in a web application.
 
 **Technical Stack:**: **Java:** Development language - **Spring Boot:** Framework for building robust and scalable applications - **OpenAI API:** For AI text generation and response retrieval.
+
+**Request Sent through postman :**
+
+![image](https://github.com/Saravananb15/SpringBootAiWithOpenAI/assets/63905051/02d81ea8-dc30-4bbd-947b-8a608b7fb9a4)
+
+
+**Tokens details and api calls made to chatGpt**
+![image](https://github.com/Saravananb15/SpringBootAiWithOpenAI/assets/63905051/65012b85-8a26-454a-a7b4-caccbae26358)
+
+
+**Billing details from openAi:**
+![image](https://github.com/Saravananb15/SpringBootAiWithOpenAI/assets/63905051/900c685d-988a-492e-a386-46d0a310df24)
+

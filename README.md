@@ -20,3 +20,13 @@ This project aims to utilize OpenAI's API within a Spring Boot application to pr
 **Billing details from openAi:**
 ![image](https://github.com/Saravananb15/SpringBootAiWithOpenAI/assets/63905051/900c685d-988a-492e-a386-46d0a310df24)
 
+
+**Few more testing API's** :
+![image](https://github.com/Saravananb15/SpringBootAiWithOpenAI/assets/63905051/0399d529-386d-49d6-acfe-1bd504d57418)
+
+**Updated billing information and usage** :
+![image](https://github.com/Saravananb15/SpringBootAiWithOpenAI/assets/63905051/f97c28c7-7e81-42fb-992f-cd29bfb60079)
+
+
+
+

@@ -12,7 +12,10 @@ target/
 .settings
 .springBeans
 .sts4-cache
+
+### seceret ###
 *.env
+appprop.env
 
 ### IntelliJ IDEA ###
 .idea
